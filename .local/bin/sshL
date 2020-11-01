@@ -1,0 +1,2 @@
+#!/bin/sh
+ssh -NL $2:localhost:$2 $1
